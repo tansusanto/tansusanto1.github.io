@@ -1,0 +1,126 @@
+@media only screen and(max-width: 379px){
+    .logo img{
+        display: flex;
+        position: absolute;
+        right: 30px;
+        top: 20px;
+    }
+    .latar h1{
+        position: absolute;
+        top: 15%;
+        left: 18%;
+    }
+    .latar img{
+        position: absolute;
+        top: 22%;
+        right: 12%;
+    }
+    .form{
+        position: relative;
+    }
+    .form label{
+        position: absolute;
+        left: 35%;
+        top: -20px;
+    }
+    .form input{
+        width: 130px;
+        border-radius: 3px;
+        border: solid 1px;
+        font-size: 12px;
+    }
+    .form1{
+       position: relative;
+    }
+    .form1 label{
+        position: absolute;
+        left: 1%;
+        top: -15px;
+    }
+    .form1 input{
+        width: 130px;
+        border-radius: 3px;
+        border: solid 1px;
+        font-size: 12px;
+    }
+    .form2{
+        position: relative;
+    }
+    .form2 label{
+        position: absolute;
+        left: 1%;
+        top: -15px;
+    }
+    .form2 input{
+        width: 130px;
+        border-radius: 3px;
+        border: solid 1px;
+        font-size: 12px;
+    }
+    .form3{
+        position: relative;
+    }
+    .form3 label{
+        position: absolute;
+        left: 0%;
+        top: -15px;
+    }
+    .form3 textarea{
+        width: 180px;
+        height: 45px;
+        border-radius: 3px;
+        border: solid 1px;
+        font-size: 12px;
+    }
+    .form4{
+        position: relative;
+    }
+    .form4 label{
+        position: absolute;
+        left: 1%;
+        top: -15px;
+    }
+    .form4 input{
+        width: 150px;
+        border-radius: 3px;
+        border: solid 1px;
+        font-size: 12px;
+    }
+    .form5{
+        position: relative;
+    }
+    .form5 label{
+        position: absolute;
+        left: 1%;
+        top: -15px;
+    }
+    .form5 input{
+        width: 150px;
+        border-radius: 3px;
+        border: solid 1px;
+        font-size: 12px;
+    }
+    .form6{
+        position: relative;
+    }
+    .form6 input{
+        font-size: 10px;
+        background-color: none;
+        font-size: 10px;
+    }
+    .form6 p{
+        font-size: 8px;
+        padding-top: 5px;
+    }
+    .form6 button{
+        position: absolute;
+        top: 50px;
+        left: 60%;
+    }
+    .lanjut img{
+        position: absolute;
+        bottom: 20px;
+        right: 30px;
+        cursor: pointer;
+    }
+}
